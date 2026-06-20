@@ -1,4 +1,4 @@
-#FuturePath AI 
+# FuturePath AI
 
 Building AI course project
 
